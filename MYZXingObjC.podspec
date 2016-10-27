@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'MyZXingObjC'
+  s.name = 'MYZXingObjC'
   s.version = '3.1.0'
   s.summary = 'An Objective-C Port of the ZXing barcode framework.'
   s.homepage = 'https://github.com/TheLevelUp/ZXingObjC'
